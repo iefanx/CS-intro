@@ -3,7 +3,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  padding: 10px;
+  padding: 8px;
   background-color: #1A1A1A; /* Softer dark background */
   color: #E0E0E0; /* Lighter, more readable text */
   line-height: 1.5; /* Better line spacing for readability */
@@ -16,8 +16,8 @@ p {
 
 .title {
   color: #8AB4F8; /* Softer title color to complement the background */
-  font-weight: 700;
-  font-size: 24px;
+  font-weight: 600;
+  font-size: 20px;
 }
 
 a {
